@@ -65,9 +65,9 @@
 
 Σύνδεσμοι λογισμικού που θα χρησιμοποιήσουμε
 ============================================
-Micro Python: https://github.com/micropython/micropython/tree/master/ports/esp8266
-Open Hab: https://www.openhab.org/docs/installation/rasppi.html
-Arduino: https://www.arduino.cc/
-Mosquitto: https://mosquitto.org/
+Micro Python: https://github.com/micropython/micropython/tree/master/ports/esp8266<br/>
+Open Hab: https://www.openhab.org/docs/installation/rasppi.html<br/>
+Arduino: https://www.arduino.cc/<br/>
+Mosquitto: https://mosquitto.org/<br/>
 
 
