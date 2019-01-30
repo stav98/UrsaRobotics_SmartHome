@@ -1,8 +1,8 @@
 Πίνακας υλικών
 ======================
 
-|Α/Α|   Τύπος	                                  | Ποσότητα | Τιμή (€) | Προμηθευτής | Συνολική τιμή | 
-|:---:|------------------------------------------|:-------:|:-------:|-------------|:------:|
+|Α/Α|   Τύπος	                                  | Ποσότητα | Τιμή (€) |Προμηθευτής - Link εξαρτ.| Συνολική τιμή (€)| 
+|:--:|------------------------------------------|:-------:|:-------:|:---------------:|:------:|
 | 1	| Raspberry Pi 3 Model B+  |1|46,90|[e-shop](https://www.e-shop.gr/modmypi-mmp-1153-raspberry-pi-3-model-b--p-PER.818063)|46,90|
 | 2	| Τροφοδοτικό για Raspberry|1|8,90|[e-shop](https://www.e-shop.gr/raspberry-pi-3-official-power-supply-uk-and-eu-51v-25a-black-p-PER.817963)|8,90|
 | 3	| Κάρτα μνήμης 32Gb για Raspberry|1|6,85|[e-shop](https://www.e-shop.gr/samsung-mb-mc32ga-eu-evo-plus-32gb-micro-sdhc-u1-class-10-adapter-p-PER.577044)|6,85|
@@ -17,7 +17,7 @@
 |12	| Transistors NPN BC547|10|0,05|[Grobotronics](https://grobotronics.com/transistor-npn-50v-0.1a-bc547.html)|0,50|
 |13	| Πλακέτα διάτρητη συνδέσεων perfboard|2|3,99|[Cableworks](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/pcb/prototype-12x18cm-pcb-double-side-bread-board-fr4/)|7,98|
 |14 | Μαγνητικές επαφές |4|1,98|[Cableworks](https://www.cableworks.gr/systimata-asfaleias/synagermoi/magnitikes-epafes/aleph-1561g-gray/)|7,92|
-|15 | Διάφορα εξαρτήματα (Αντιστάτες-πυκνωτές-καλώδια-pinheads)| |5,00|*|5,00|
-|16 | Υλικά μακέτας (Ξύλα, κόντρα πλακέ, βίδες)||15,00|*|15,00|
+|15 | Διάφορα εξαρτήματα (Αντιστάτες-πυκνωτές-καλώδια-pinheads)| |5,00|\*|5,00|
+|16 | Υλικά μακέτας (Ξύλα, κόντρα πλακέ, βίδες)||15,00|\*|15,00|
 
-* Τα υλικά με Α/Α 15 και 16 θα τα προμηθευτούμε εμείς με έξοδα του σχολείου.
+\* Τα υλικά με Α/Α 15 και 16 θα τα προμηθευτούμε εμείς με έξοδα του σχολείου.
