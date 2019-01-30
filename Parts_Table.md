@@ -17,3 +17,7 @@
 |12	| Transistors NPN BC547|10|0,05|[Grobotronics](https://grobotronics.com/transistor-npn-50v-0.1a-bc547.html)|0,50|
 |13	| Πλακέτα διάτρητη συνδέσεων perfboard|2|3,99|[Cableworks](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/pcb/prototype-12x18cm-pcb-double-side-bread-board-fr4/)|7,98|
 |14 | Μαγνητικές επαφές |4|1,98|[Cableworks](https://www.cableworks.gr/systimata-asfaleias/synagermoi/magnitikes-epafes/aleph-1561g-gray/)|7,92|
+|15 | Διάφορα εξαρτήματα (Αντιστάτες-πυκνωτές-καλώδια-pinheads)| |5,00|\*|5,00|
+|16 | Υλικά μακέτας (Ξύλα, κόντρα πλακέ, βίδες)|15,00|\*|15,00|
+
+* Τα υλικά με Α/Α 15 και 16 θα τα προμηθευτούμε εμείς με έξοδα του σχολείου.
