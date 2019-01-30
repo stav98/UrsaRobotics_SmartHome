@@ -3,7 +3,7 @@
 
 |Α/Α|   Τύπος	                                  | Ποσότητα| Τιμή (€) | Προμηθευτής | Συνολική τιμή | 
 |:--:|------------------------------------------|:-------:|----------|-------------|---------------|
-| 1	| Raspberry Pi 3 Model B+                   |    1    | 46,90    | [e-shop](https://www.e-shop.gr/modmypi-mmp-1153-raspberry-pi-3-model-b--p-PER.818063){:target="_blank"} | 46,90 |
+| 1	| Raspberry Pi 3 Model B+                   |    1    | 46,90    | [e-shop](https://www.e-shop.gr/modmypi-mmp-1153-raspberry-pi-3-model-b--p-PER.818063) {:target="_blank"} | 46,90 |
 | 2	| ESP-12E ή Node MCU	                       |    1    |
 | 3	| Arduino mini	                             |    1    |
 | 4	| LED 5mm λευκά	                            |   10    |
