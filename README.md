@@ -44,6 +44,8 @@
 
 Επίσης μπορεί το raspberry να λειτουργεί ως MQTT gateway και να συνεργαστεί με άλλες πλατφόρμες IOT που υπάρχουν στο διαδίκτυο, όπως το Alexa της Amazon. 
 
+[Ανανεωμένος πίνακας υλικών με τιμές και προμηθευτές](https://github.com/stav98/UrsaRobotics_SmartHome/blob/master/Parts_Table.md)
+
 Πίνακας βασικών υλικών
 ======================
 
