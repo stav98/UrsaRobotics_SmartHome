@@ -4,4 +4,5 @@
 
 Οι τύποι των σημάτων
 
+![alt text](https://github.com/stav98/UrsaRobotics_SmartHome/blob/master/signal_types.png)
  
