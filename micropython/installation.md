@@ -112,5 +112,6 @@ hashlib           select            uos
 Plus any modules on the filesystem
 
 Εγκατάσταση micropython σε ESP 8266 (nodemcu) – Windows
+=======================================================
 Για την εγκατάσταση της micropython στο nodemcu, ακολουθούμε τα ίδια βήματα και από Λ.Σ. Windows.
 Για τον προγραμματισμό υπάρχει το IDE EsPy https://github.com/jungervin/EsPy
