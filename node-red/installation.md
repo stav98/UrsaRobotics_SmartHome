@@ -1,6 +1,7 @@
 **Καλύτερα δείτε τα αρχεία odt ή pdf**
 
 **Node Red Dashboard**
+
 Στο rasbian stretch είναι εγκατεστημένο το Node-Red V 0.19.4 και για να βάλουμε το dashboard κάνουμε τις εξής ενέργειες:
 sudo apt-get update
 sudo apt-get install npm
