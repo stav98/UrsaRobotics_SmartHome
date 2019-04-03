@@ -1,5 +1,7 @@
 Εγκατάσταση micropython σε ESP 8266 (nodemcu) - Linux
 =====================================================
+**Καλύτερα δείτε το αρχείο odt ή pdf.**
+
 Αρχικά εγκαθιστούμε το esptool.py στην Python 3 με την εντολή pip3 install esptool ή σε Python 2 με pip install esptool. Πρέπει να έχετε εγκαταστήσει το pip3 ή το pip για την αντίστοιχη έκδοση της python. Για debian είναι τα πακέτα python3-pip και python-pip αντίστοιχα. 
 
 Για να βρούμε τον κατάλογο εγκατάστασης του καταλόγου site-packages γράφουμε python3 -m site. Για debian μας ενδιαφέρει το ~/.local/lib/python3.5/site-packages. Πάμε σ’ αυτή την διαδρομή και δίνουμε python3 esptool.py για να δούμε αν λειτουργεί. Αν θέλουμε μπορούμε να το βάλουμε στο path.
