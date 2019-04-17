@@ -1,0 +1,7 @@
+#!/bin/sh
+FILESIZE=$(stat -c%s "$1")
+echo ==== Uploading to board file $1 with size $FILESIZE bytes. ====
+ampy -p /dev/ttyUSB0 put $1 $2
+echo 'OK'
+exit 0
+
