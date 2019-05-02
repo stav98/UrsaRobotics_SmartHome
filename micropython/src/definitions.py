@@ -57,13 +57,13 @@ hostIP = ''
 
 #============ Subdcribed Topics =============================
 #----- Ψηφιακές έξοδοι -----------------
-D_TOPIC1 = b"bedroom/priza1_switch"
-D_TOPIC2 = b"livingroom/priza2_switch"
+D_TOPIC1 = b"bedroom/priza2_switch"
+D_TOPIC2 = b"livingroom/priza1_switch"
 D_TOPIC3 = b"wc/thermo_switch"
 D_TOPIC4 = b"garden/light_switch"
 D_TOPIC5 = b"out/siren_switch"
 d_topics = [D_TOPIC1, D_TOPIC2, D_TOPIC3, D_TOPIC4, D_TOPIC5]
-d_pins = [10, 11, 12, 9, 17]
+d_pins = [11, 10, 12, 9, 17]
 
 #----- Αναλογικές PWM έξοδοι
 A_TOPIC1 = b"bedroom/light1_switch"
@@ -87,6 +87,8 @@ P_TOPIC8 = b"taratsa/pv"
 P_TOPIC9 = b"bell/ringing"
 P_TOPIC10 = b"kitchen/port"
 P_TOPIC11 = b"main/port"
+P_TOPIC12 = b"livingroom/button1"
+P_TOPIC13 = b"home/playmusic"
 
 S_TOPIC1 = b"garaz/gate"
 S_TOPIC2 = b"trapezaria/skiasi"

@@ -108,18 +108,28 @@ bell_btn.ticks = 0
 
 
 def button1_click():
-    print("Key pressed")
-    
-    
+    print("Key1 pressed") #Debug
+    df.c.publish(df.P_TOPIC12, "True")
+
+button1_pr_state = False    
 def button1_pressed():
-    print("Key Long click")
+    global button1_pr_state
+    print("Key1 Long click") #Debug
+    if not button1_pr_state:
+        print("Play radio")
+        df.c.publish(df.P_TOPIC13, "Play")
+        button1_pr_state = True
+    else:
+        print("Stop radio")
+        df.c.publish(df.P_TOPIC13, "Stop")
+        button1_pr_state = False
     
 def bell_btn_click():
-    print("Bell pressed")
+    print("Bell pressed") #Debug
     df.c.publish(df.P_TOPIC9, "True")
     
 def bell_btn_pressed():
-    print("Bell Long click")
+    print("Bell Long click") #Debug
     
 def isPortOpen(pin):
     if digitalRead(pin, df.PULLUP): 
