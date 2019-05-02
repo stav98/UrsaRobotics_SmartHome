@@ -1,0 +1,11 @@
+##############################################
+#topic::State:Message|
+# OR
+#topic::State1:Message1|State2:Message2
+##############################################
+bell/ringing       ::True:Κάποιος χτυπάει την πόρτα.|
+livingroom/button1 ::True:Πάτησες το κουμπί.|
+main/port          ::True:Κύρια είσοδος ανοιχτή.|False:Κύρια είσοδος κλειστή.
+wc/thermo_switch   ::ON:Άναψες τον θερμοσίφωνα.|OFF:Έσβησες τον θερμοσίφωνα.
+garden/light_switch::ON:Φώτα κήπου αναμμένα.|OFF:Φώτα κήπου σβηστά.
+home/playmusic     ::Play:Θα ακούσουμε μουσικούλα.|Stop:Σταματάω την μουσική.
