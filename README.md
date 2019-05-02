@@ -6,7 +6,6 @@
 
 ![alt text](https://github.com/stav98/UrsaRobotics_SmartHome/blob/master/images/maketa_teliki.jpg)
 
-<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/EgXMZQicLHs" width="480"></iframe>
-Το video με την παρουσίαση του έργου.
+<a href="https://www.youtube.com/embed/EgXMZQicLHs">Το video της τελικής παρουσίασης</a>
 
 <a href="https://github.com/stav98/UrsaRobotics_SmartHome/blob/master/protasi-specs.md" target="_blank">Η αρχική πρόταση και οι προδιαγραφές πριν την υλοποίηση.</a>
